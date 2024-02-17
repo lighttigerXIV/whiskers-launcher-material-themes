@@ -1,0 +1,10 @@
+{
+  "background_main": "#f3faff",
+  "background_secondary": "#e3f3ff",
+  "background_tertiary": "#ffffff",
+  "accent_primary": "#78c3ff",
+  "accent_danger": "#ff9191",
+  "text_on_background": "#00294a",
+  "text_on_primary": "#00294a",
+  "text_on_danger": "#00294a"
+}
